@@ -11,7 +11,7 @@ KTTD is a CLI tool that snapshots your Kubernetes cluster's state over time, let
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-username/kttd.git
+git clone https://github.com/coolsamk7/kttd.git
 cd kttd
 go mod tidy
 go run main.go snapshot --namespace=default
